@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1a86bdb9.css","mappings":"AAAA,YAII,sBAAuB,CAHvB,iBAAkB,CAElB,OAAQ,CADR,KAGJ","sources":["css/card.css"],"sourcesContent":[".card-close {\r\n    position: absolute;\r\n    top: 0;\r\n    right: 0;\r\n    background: transparent;\r\n}"],"names":[],"sourceRoot":""}
